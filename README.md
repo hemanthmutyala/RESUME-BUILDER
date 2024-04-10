@@ -1,1 +1,1 @@
-# Resume-Builder
+# Free Resume-Builder application using React JS
